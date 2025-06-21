@@ -1,4 +1,4 @@
-#PW 
+# PW 
 Project Description (English)
 PharmaConnect is a B2B digital platform designed to streamline and modernize the relationship between pharmaceutical warehouses and pharmacies. The system acts as an online marketplace and management tool, enabling pharmacies to easily search, compare, and order medicines from multiple warehouses, while allowing warehouses to efficiently manage inventory, promote products, process orders, and analyze sales performance.
 
